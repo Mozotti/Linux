@@ -1,0 +1,44 @@
+alsa-utils
+gedit
+git
+curl
+rhythmbox
+bashee
+evince
+gparted
+vim
+qbittorrent
+ktorrent
+trasmission
+lm_sensors
+wine
+supertux
+nmap
+wget
+irssi
+geany
+codeblocks
+vlc
+smplayer
+wireshark
+lua 
+python
+netbeans
+gcc
+htop
+kile
+gimp
+libreoffice
+eclipse
+gthumb     //gnome interface visuzalidor de imagens
+conky
+
+
+
+synnaptics    //mouse
+
+
+
+loadkeys br-abnt2
+dhcpcd
+
