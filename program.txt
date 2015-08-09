@@ -32,7 +32,9 @@ libreoffice
 eclipse
 gthumb     //gnome interface visuzalidor de imagens
 conky
-
+firefox
+nano
+thunderbird
 
 
 synnaptics    //mouse
