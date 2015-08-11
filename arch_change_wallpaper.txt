@@ -1,0 +1,5 @@
+awesome change wallpaper with
+-------------------------------
+sudo pacman -Syyu feh
+------------------------------
+feh --bg-fill wallpaper.png
