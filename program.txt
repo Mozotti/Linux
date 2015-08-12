@@ -36,8 +36,12 @@ firefox
 nano
 thunderbird
 feh
-
+zip
+unzip
+p7zip
 synnaptics    //mouse
+make
+htop
 
 
 
