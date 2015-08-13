@@ -42,6 +42,8 @@ p7zip
 synnaptics    //mouse
 make
 htop
+links
+lynx
 
 
 
