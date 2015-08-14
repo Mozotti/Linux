@@ -39,14 +39,25 @@ feh
 zip
 unzip
 p7zip
-synnaptics    //mouse
+synaptics    //mouse
 make
 htop
 links
 lynx
-
+gtk-engines
+lxappearances
+lm_sensors
+phonon-qt5-vlc
+totem
+totem-plparser
+flashplugin
+//skype
+//steam
 
 
 loadkeys br-abnt2
 dhcpcd
-
+add firefox----
+ft deepdark
+adblock
+ghostery
