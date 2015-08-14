@@ -51,9 +51,12 @@ phonon-qt5-vlc
 totem
 totem-plparser
 flashplugin
+pgadmin3
+postgresql
+mysql
 //skype
 //steam
-
+//tex live
 
 loadkeys br-abnt2
 dhcpcd
