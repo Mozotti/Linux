@@ -54,6 +54,9 @@ flashplugin
 pgadmin3
 postgresql
 mysql
+imagemagick
+alsa-utils
+scrot  //print program scrot oi.png
 //skype
 //steam
 //tex live
