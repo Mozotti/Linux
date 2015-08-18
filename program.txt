@@ -1,4 +1,5 @@
 alsa-utils
+postgresql
 gedit
 git
 curl
