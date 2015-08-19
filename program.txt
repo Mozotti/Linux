@@ -1,4 +1,7 @@
 alsa-utils
+xorg-xrandr
+shotwell
+pinta
 postgresql
 gedit
 git
