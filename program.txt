@@ -63,6 +63,7 @@ mysql
 imagemagick
 alsa-utils
 scrot  //print program scrot oi.png
+wine
 //skype
 //steam
 //tex live
@@ -73,3 +74,5 @@ add firefox----
 ft deepdark
 adblock
 ghostery
+
+/etc/pacman.conf
