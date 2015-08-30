@@ -68,6 +68,21 @@ skype
 steam
 //tex live
 dnsutils
+lvm2
+python-opengl
+python2-opengl
+gambas3-gb-qt4-opengl
+coin
+gliv
+glitz
+glfw
+glew
+glee
+gl2ps
+perl
+vim
+git
+
 
 loadkeys br-abnt2
 dhcpcd
