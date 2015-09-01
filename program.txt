@@ -82,7 +82,9 @@ gl2ps
 perl
 vim
 git
-
+mesa-demos
+lib32-mesa-demos
+blender
 
 loadkeys br-abnt2
 dhcpcd
