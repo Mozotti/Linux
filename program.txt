@@ -87,6 +87,12 @@ lib32-mesa-demos
 blender
 mesa-libgl
 lib32-mesa-libgl
+unrar
+freeglut
+mesa
+mesa-demos
+openal
+glew
 
 
 loadkeys br-abnt2
