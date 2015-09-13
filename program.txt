@@ -93,7 +93,8 @@ mesa
 mesa-demos
 openal
 glew
-
+awesome
+xorg-*
 
 loadkeys br-abnt2
 dhcpcd
