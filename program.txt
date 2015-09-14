@@ -12,7 +12,6 @@ rhythmbox
 bashee
 evince
 gparted
-vim
 qbittorrent
 ktorrent
 trasmission
@@ -95,6 +94,8 @@ openal
 glew
 awesome
 xorg-*
+pygame
+
 
 loadkeys br-abnt2
 dhcpcd
