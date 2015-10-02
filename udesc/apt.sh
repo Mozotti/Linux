@@ -19,12 +19,15 @@ sudo dpkg -i google-chrome*.deb
 #sudo dpkg -i google-chrome*.deb
 #sudo apt-get install -f
 #google-chrome-stable depends on [lib-example]; however; Package [lib-example] is not installed.
-sudo add-apt-repository ppa:apandada1/up-clock
-sudo apt-get update
-sudo apt-get install up-clock
+#sudo add-apt-repository ppa:apandada1/up-clock
+#sudo apt-get update
+#sudo apt-get install up-clock
+sudo apt-get install upgrade
 #ft deepdark
 #adblock
 #ghostery
+sudo su
+exit
 cd
 git clone https://github.com/tony/tmux-config.git ~/.tmux
 ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
