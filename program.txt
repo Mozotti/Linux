@@ -95,7 +95,7 @@ glew
 awesome
 xorg-*
 pygame
-
+openssh
 
 loadkeys br-abnt2
 dhcpcd
