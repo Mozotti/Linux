@@ -14,9 +14,5 @@ passwd
 #sudo update-grub
 #other linux partition
 
-cd home/name_user/
-vim ~/.xinitrc
-	exec awesome
-sudo pacman -S xorg-xinit
 #https://wiki.archlinux.org/index.php/Installation_guide_%28Portugu%C3%AAs%29
 #https://wiki.archlinux.org/index.php/Installation_guide
