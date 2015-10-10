@@ -23,7 +23,7 @@ useradd -m -G wheel -s /bin/bash archie
 cd /home/ 
 #chmod g+s our_shared_directory
 chmod +x user_diretory/
-chown user_diretory/ 
+chown -R name_user:name_user name_user_diretory/
 #verificar
 cd /home/ && ls -a
 exit
@@ -36,6 +36,10 @@ cd home/name_user/
 sudo pacman -S reflector 
 reflector --verbose -l 200 -p http --sort rate --save /etc/pacman.d/mirrorlist 
 sudo pacman -Syyu sudo vim git curl wget openssh htop lm_sensors links lynx
+visudo
+#root all=(all:all) all
+#user user=(user:user) user 
+
 vim ~/.xinitrc
 	exec awesome
 sudo pacman -S xorg-xinit xorg xterm dialog awesome mesa gparted
