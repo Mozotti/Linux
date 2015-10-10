@@ -45,5 +45,8 @@ sudo su
 cd /etc/pacman.conf 
 #remove # from multilib
 sudo pacman -S netbeans wine gcc gimp conky acpi firefox zip unzip make rhythmbox blender nmap irssi vlc smplayer lua wireshark
+#change interface
+cd /etc/adx or adg i dont remeber ;\
+    #folder awesome interface
 #https://wiki.archlinux.org/index.php/Installation_guide_%28Portugu%C3%AAs%29
 #https://wiki.archlinux.org/index.php/Installation_guide
