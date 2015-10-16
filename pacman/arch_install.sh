@@ -52,5 +52,10 @@ sudo pacman -S netbeans wine gcc gimp conky acpi firefox zip unzip make rhythmbo
 #change interface
 cd /etc/adx or adg i dont remeber ;\
     #folder awesome interface
+
+
+#time problem
+sudo su
+timedatectl set-time "2015-10-15 18:54:00"
 #https://wiki.archlinux.org/index.php/Installation_guide_%28Portugu%C3%AAs%29
 #https://wiki.archlinux.org/index.php/Installation_guide
