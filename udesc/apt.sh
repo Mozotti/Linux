@@ -32,4 +32,4 @@ cd
 git clone https://github.com/tony/tmux-config.git ~/.tmux
 ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
 curl http://j.mp/spf13-vim3 -L -o - | sh
-sudo apt-get install opengl
+sudo apt-get install opengl mplayer wireshark
