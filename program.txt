@@ -104,4 +104,9 @@ ft deepdark
 adblock
 ghostery
 
+//converter pdf para txt
+    poppler-utils
+    pdftotext nomedoarquivo.pdf
+    cat nomedoarquivo.txt |less 
+
 /etc/pacman.conf
