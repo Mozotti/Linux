@@ -6,7 +6,7 @@ sudo yum install nmap wget geany codeblocks vlc wireshark lua5.1 python3.4 netbe
 sudo yum install unzip p7zip feh links python-opengl vim blender mysql-server mysql-workbench
 sudo yum install gparted gimp lynx
 sudo yum install gcc smplayer tatom bison flex man dhcpcd cowsay shotwell supertux gedit rhythmbox evince transmission qbittorrent
-sudo yum install openssh
+sudo yum install openssh bison flex
 cd
 git clone https://github.com/tony/tmux-config.git ~/.tmux
 ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
