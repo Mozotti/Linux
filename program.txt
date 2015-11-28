@@ -63,6 +63,7 @@ imagemagick
 alsa-utils
 scrot  //print program scrot oi.png
 wine
+calibre
 skype
 steam
 //tex live
