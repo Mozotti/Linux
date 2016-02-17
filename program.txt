@@ -1,3 +1,5 @@
+etherape
+
 alsa-utils
 tmux
 gnuplot
