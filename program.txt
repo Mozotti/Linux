@@ -1,4 +1,9 @@
 etherape
+medusa
+Sqlninja
+Yersinia
+MiniZinc
+
 
 alsa-utils
 tmux
