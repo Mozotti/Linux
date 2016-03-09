@@ -6,6 +6,12 @@ MiniZinc
 qt5
 qt4
 xterm
+percona-server
+percone-server-clients
+swi-prolog
+reflector
+virtualbox
+
 
 transmission-gtk
 alsa-utils
