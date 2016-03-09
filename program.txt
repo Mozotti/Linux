@@ -3,7 +3,7 @@ medusa
 Sqlninja
 Yersinia
 MiniZinc
-
+qt5
 
 alsa-utils
 tmux
