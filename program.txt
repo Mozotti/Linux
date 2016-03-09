@@ -4,7 +4,10 @@ Sqlninja
 Yersinia
 MiniZinc
 qt5
+qt4
+xterm
 
+transmission-gtk
 alsa-utils
 tmux
 gnuplot
