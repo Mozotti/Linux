@@ -13,6 +13,9 @@ swi-prolog
 reflector
 virtualbox
 
+//for use juicessh app android
+openssh-client 
+openssh-server 
 
 transmission-gtk
 alsa-utils
