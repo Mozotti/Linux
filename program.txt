@@ -1,4 +1,5 @@
 texmaker
+mpv
 etherape
 medusa
 Sqlninja
