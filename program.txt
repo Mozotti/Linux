@@ -1,5 +1,7 @@
 texmaker
 mpv
+pulseaudio
+ffmpeg
 etherape
 medusa
 Sqlninja
