@@ -16,6 +16,7 @@ swi-prolog
 reflector
 virtualbox
 
+ghci
 //for use juicessh app android
 openssh-client 
 openssh-server 
