@@ -15,7 +15,6 @@ percone-server-clients
 swi-prolog
 reflector
 virtualbox
-
 ghci
 //for use juicessh app android
 openssh-client 
