@@ -4,4 +4,8 @@ http://distrowatch.com/
 
 http://torrentfreak.com/
 
+https://www.archlinux.org/packages/
 
+http://rosettacode.org
+
+https://wiki.gnome.org/Apps/Rhythmbox
