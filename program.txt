@@ -1,3 +1,6 @@
+cmus
+moc
+Lollypop
 texmaker
 mpv
 pulseaudio
