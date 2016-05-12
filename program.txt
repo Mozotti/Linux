@@ -1,3 +1,15 @@
+sudo pacman -S clutter-gst gnome-video-effects gst-plugins-bad gst-plugins-base gst-plugins-base-libs gst-plugins-good gstreamer gstreamer0.10 gstreamer0.10-bad  gstreamer0.10-bad-plugins gstreamer0.10-base gstreamer0.10-base-plugins gstreamer0.10-ffmpeg gstreamer0.10-good  gstreamer0.10-good-plugins gstreamer0.10-ugly  gstreamer0.10-ugly-plugins phonon-qt4-gstreamer phonon-qt5-gstreamer totem
+
+
+//vnstat -u -i eth0 
+vnStat
+
+//mpd service
+//ncmpcpp client
+mpd + ncmpcpp
+Clementine
+amarok
+
 cmus
 moc
 Lollypop
