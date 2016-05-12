@@ -9,7 +9,8 @@ vnStat
 mpd + ncmpcpp
 Clementine
 amarok
-
+quodlibet
+yaourt
 cmus
 moc
 Lollypop
