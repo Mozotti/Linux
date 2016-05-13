@@ -5,15 +5,26 @@ sudo pacman -S clutter-gst gnome-video-effects gst-plugins-bad gst-plugins-base 
 vnStat
 
 //mpd service
+
 //ncmpcpp client
 mpd + ncmpcpp
+
+//server problens
 Clementine
 amarok
+
+//works fine
 quodlibet
 yaourt
+
+//works fine
 cmus
 moc
+
+
+//problens with location
 Lollypop
+
 texmaker
 mpv
 pulseaudio
