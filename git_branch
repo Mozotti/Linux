@@ -1,0 +1,6 @@
+new branch
+git checkout -n new_branch_name
+
+git status
+
+git push origin new_branch_name
