@@ -25,18 +25,33 @@ moc
 //problens with location
 Lollypop
 
+//latex editor
 texmaker
+
+//audio
 mpv
 pulseaudio
 ffmpeg
+
+//internet scan
 etherape
+
+//injection (fedora)
 medusa
 Sqlninja
 Yersinia
+
+//.....
 MiniZinc
+
+//code interface
 qt5
 qt4
+
+//best terminal ever
 xterm
+
+//
 percona-server
 percone-server-clients
 swi-prolog
