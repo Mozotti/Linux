@@ -54,6 +54,8 @@ xterm
 //
 percona-server
 percone-server-clients
+
+//prolog file
 swi-prolog
 reflector
 virtualbox
