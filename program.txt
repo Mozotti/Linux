@@ -57,20 +57,40 @@ percone-server-clients
 
 //prolog file
 swi-prolog
+
+//
 reflector
+
+//
 virtualbox
+
+//haskell comp
 ghci
+
 //for use juicessh app android
 openssh-client 
 openssh-server 
 
+//client torrent
 transmission-gtk
+
+//alsa audio tools
 alsa-utils
+
+//terminal comple.
 tmux
+
+//graphic tool
 gnuplot
+
+//awesome interface (need)
 xorg-xrandr
+
+//picture editor
 shotwell
 pinta
+
+//
 postgresql
 gedit
 git
