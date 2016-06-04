@@ -4,6 +4,9 @@ sudo pacman -S clutter-gst gnome-video-effects gst-plugins-bad gst-plugins-base 
 //vnstat -u -i eth0 
 vnStat
 
+//clojure 
+clojure
+
 //mpd service
 
 //ncmpcpp client
