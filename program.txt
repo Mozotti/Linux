@@ -95,21 +95,47 @@ pinta
 
 //
 postgresql
+
+//editor 
 gedit
+
+//git ... github and bitbucket ...
 git
+
+//curl 
 curl
+
+//music player
 rhythmbox
 bashee
+
+//pdf view
 evince
+
+//partion change with
 gparted
+
+//torrent
 qbittorrent
 ktorrent
 trasmission
+
+//sensors computer
 lm_sensors
+
+//windows emul.
 wine
+
+//game
 supertux
+
+//map network
 nmap
+
+//download files with url
 wget
+
+//chat
 irssi
 geany
 codeblocks
