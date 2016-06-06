@@ -137,10 +137,16 @@ wget
 
 //chat
 irssi
+
+//ide
 geany
 codeblocks
+
+//music player
 vlc
 smplayer
+
+//
 wireshark
 lua 
 python
