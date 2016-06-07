@@ -234,4 +234,5 @@ ghostery
     pdftotext nomedoarquivo.pdf
     cat nomedoarquivo.txt |less 
 
+
 /etc/pacman.conf
