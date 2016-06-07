@@ -218,6 +218,8 @@ loadkeys br-abnt2
 dhcpcd
 add firefox----
 ft deepdark
+
+//firefox addons
 adblock
 ghostery
 
