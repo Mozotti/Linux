@@ -242,7 +242,8 @@ openssh
 
 loadkeys br-abnt2
 dhcpcd
-add firefox----
+
+//addon firefox
 ft deepdark
 
 //firefox addons
