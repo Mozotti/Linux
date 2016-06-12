@@ -26,7 +26,6 @@ yaourt
 cmus
 moc
 
-
 //problens with location
 Lollypop
 
