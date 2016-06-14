@@ -153,6 +153,7 @@ wireshark
 //
 lua 
 python
+ruby
 
 //IDE
 netbeans
