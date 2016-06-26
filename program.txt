@@ -185,6 +185,9 @@ conky
 //
 firefox
 
+//image editor
+sk1
+
 //
 nano
 thunderbird
