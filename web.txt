@@ -12,4 +12,9 @@ https://wiki.gnome.org/Apps/Rhythmbox
 
 http://blog.securelayer7.net/mongodb-security-injection-attacks-with-php/
 
+http://truben.no/latex/bibtex/
+
+http://liinwww.ira.uka.de/bibliography/index.html
+
+
 bookzz
