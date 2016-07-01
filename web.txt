@@ -16,5 +16,8 @@ http://truben.no/latex/bibtex/
 
 http://liinwww.ira.uka.de/bibliography/index.html
 
+http://www.soundtrack.net/
+
+https://labs.fedoraproject.org/en/security/
 
 bookzz
