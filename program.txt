@@ -197,7 +197,6 @@ unzip
 p7zip
 synaptics    //mouse
 make
-htop
 links
 lynx
 gtk-engines
