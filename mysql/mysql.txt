@@ -1,0 +1,7 @@
+#fix some update shit
+#ERRO:
+#		Table 'performance_schema.session_variables' doesn't exist
+mysql_upgrade -u root -p --force
+
+#restart
+systemctl restart mysqld
