@@ -1,3 +1,4 @@
+#old version need update (2013<)
 #yum
 sudo yum update
 sudo yum upgrade
