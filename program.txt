@@ -1,5 +1,8 @@
 package install		pacman && yum 
 
+//info system //info SO
+screenfetch
+
 //ghci
 cabal-install 
 

@@ -22,6 +22,3 @@ https://labs.fedoraproject.org/en/security/
 
 sharelatex
 
-bookzz
-
-..
