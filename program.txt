@@ -1,5 +1,15 @@
 package install		pacman && yum 
 
+qt5
+python3-pyqt5
+
+Gwenview
+
+//ico pictures
+icoutils
+
+munin
+
 //info system //info SO
 screenfetch
 
