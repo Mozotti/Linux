@@ -1,5 +1,9 @@
 package install		pacman && yum 
 
+//paralela
+gprof
+perf
+
 qt5
 python3-pyqt5
 
@@ -61,8 +65,7 @@ Yersinia
 //.....
 MiniZinc
 
-//code interface
-qt5
+//code interface python2.7 c++
 qt4
 
 //best terminal ever
