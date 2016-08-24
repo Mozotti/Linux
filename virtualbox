@@ -1,0 +1,54 @@
+Como vai?
+
+Hoje fui executar o carregamento dos módulos utilizando o comando no terminal:
+
+# modprobe vboxdrv
+
+Retornou o erro:
+
+ 
+
+modprobe: FATAL: Module vboxnetflt not found in directory /lib/modules/4.5.3-1-ARCH
+modprobe: FATAL: Module vboxpci not found in directory /lib/modules/4.5.3-1-ARCH
+modprobe: FATAL: Module vboxdrv not found in directory /lib/modules/4.5.3-1-ARCH
+
+ 
+
+Vamos lá!
+
+# sudo /sbin/rcvboxdrv -h
+
+# Unloading modules:
+# Loading modules: modprobe: FATAL: Module vboxnetadp not found in directory /lib/modules/4.5.3-1-ARCH
+modprobe: FATAL: Module vboxnetflt not found in directory /lib/modules/4.5.3-1-ARCH
+modprobe: FATAL: Module vboxpci not found in directory /lib/modules/4.5.3-1-ARCH
+modprobe: FATAL: Module vboxdrv not found in directory /lib/modules/4.5.3-1-ARCH
+
+ 
+
+Solução:
+
+ 
+
+$ sudo pacman -Si linux
+$ sudo pacman -S linux-headers
+$ sudo pacman -S virtualbox virtualbox-guest-iso
+$ sudo modprobe -a vboxdrv vboxnetflt vboxpci vboxnetadp
+$ sudo /sbin/rcvboxdrv -h
+
+ 
+
+Adicionar no usuário na presente sessão no grupo vboxusers:
+
+$ sudo gpasswd -a $USER vboxusers
+
+ 
+
+Adicionar linhas no diretório /etc/modules-load.d/virtualbox.conf:
+
+# nano /etc/modules-load.d/virtualbox.conf
+
+Linhas:
+vboxdrv
+vboxnetadp
+vboxnetflt

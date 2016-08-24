@@ -1,5 +1,9 @@
 package install		pacman && yum 
 
+python-matplotlib
+python-pillow
+python-numpy
+
 //paralela
 gprof
 perf
