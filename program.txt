@@ -1,5 +1,8 @@
 package install		pacman && yum 
 
+sudo pacman -Sy base-devel
+ 
+opencv
 python-matplotlib
 python-pillow
 python-numpy
