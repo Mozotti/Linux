@@ -1,6 +1,9 @@
 package install		pacman && yum 
 
+
+//sublime for arch
 sudo pacman -Sy base-devel
+yaourt sublime-text-dev 
  
 opencv
 python-matplotlib
