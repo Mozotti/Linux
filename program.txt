@@ -1,5 +1,7 @@
 package install		pacman && yum 
 
+//editor
+atom
 
 //sublime for arch
 sudo pacman -Sy base-devel
