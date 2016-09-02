@@ -3,6 +3,10 @@ package install		pacman && yum
 //editor
 atom
 
+//file compress (openbsd)
+xz
+
+
 //sublime for arch
 sudo pacman -Sy base-devel
 yaourt sublime-text-dev 
