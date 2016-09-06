@@ -1,0 +1,29 @@
+#install sudo
+cd /usr/ports/security/sudo/ && make install clean
+
+
+su -
+Allow user vivek to run all admin tasks via sudo:
+
+vivek ALL=(ALL) ALL
+
+#install git
+cd /usr/ports/devel/git 
+sudo make
+sudo make install
+sudo make clean
+
+
+
+# cd /usr/ports/x11-wm/awesome && make install clean
+
+#https://cooltrainer.org/a-freebsd-desktop-howto/
+
+#install pkg
+/usr/ports/ports-mgmt/pkg
+sudo make
+
+#pkg install name...
+
+#pip
+python3 -m ensurepip
