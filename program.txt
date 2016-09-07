@@ -6,6 +6,11 @@ atom
 //file compress (openbsd)
 xz
 
+//imagem ecript data
+openstego
+
+//cript
+gpg
 
 //sublime for arch
 sudo pacman -Sy base-devel
