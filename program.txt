@@ -3,6 +3,9 @@ package install		pacman && yum
 //editor
 atom
 
+//
+clang
+
 //file compress (openbsd)
 xz
 
