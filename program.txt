@@ -228,10 +228,16 @@ firefox
 //image editor
 sk1
 
-//
+//editor
 nano
+
+//email
 thunderbird
+
+//imagens
 feh
+
+
 zip
 unzip
 p7zip
@@ -303,6 +309,9 @@ ghostery
     pdftotext nomedoarquivo.pdf
     cat nomedoarquivo.txt |less 
 
+
+
+#arch linux information
 
 /etc/pacman.conf
 
