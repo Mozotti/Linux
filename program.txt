@@ -237,7 +237,6 @@ thunderbird
 //imagens
 feh
 
-
 zip
 unzip
 p7zip
@@ -308,8 +307,6 @@ ghostery
     poppler-utils
     pdftotext nomedoarquivo.pdf
     cat nomedoarquivo.txt |less 
-
-
 
 #arch linux information
 
