@@ -1,9 +1,12 @@
 package install		pacman && yum 
 
+//c++ threads library
+boost
+
 //editor
 atom
 
-//
+//compilador?
 clang
 
 //file compress (openbsd)
