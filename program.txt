@@ -296,6 +296,8 @@ xorg-*
 pygame
 openssh
 
+
+//linux basic
 loadkeys br-abnt2
 dhcpcd
 
