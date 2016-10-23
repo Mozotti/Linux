@@ -296,6 +296,10 @@ xorg-*
 pygame
 openssh
 
+moreutils
+//isutf8 *   check file format for utf8
+//iconv -f ISO-8859-14 input.txt -t UTF-8 -o output.txt
+
 
 //linux basic
 loadkeys br-abnt2
