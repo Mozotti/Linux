@@ -303,6 +303,9 @@ moreutils
 //
 mpi
 
+//
+julia
+
 
 //linux basic
 loadkeys br-abnt2
