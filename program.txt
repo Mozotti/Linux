@@ -306,6 +306,9 @@ mpi
 //
 julia
 
+//
+python3-scipy
+
 
 //linux basic
 loadkeys br-abnt2
