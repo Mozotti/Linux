@@ -309,6 +309,8 @@ julia
 //
 python3-scipy
 
+//
+traceroute
 
 //linux basic
 loadkeys br-abnt2
