@@ -312,6 +312,9 @@ python3-scipy
 //
 traceroute
 
+//
+lshw
+
 //linux basic
 loadkeys br-abnt2
 dhcpcd
