@@ -309,6 +309,9 @@ julia
 //
 python3-scipy
 
+//
+emacs
+
 //tracer
 traceroute
 
