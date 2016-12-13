@@ -66,6 +66,18 @@ amarok
 quodlibet
 yaourt
 
+
+//traffic network
+Netstat
+netactview
+
+//instalar na ordem
+terminus-font
+monitorix
+
+//disk htop
+iotop
+
 //works fine
 cmus
 moc

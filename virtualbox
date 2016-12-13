@@ -7,7 +7,6 @@ Hoje fui executar o carregamento dos módulos utilizando o comando no terminal:
 Retornou o erro:
 
  
-
 modprobe: FATAL: Module vboxnetflt not found in directory /lib/modules/4.5.3-1-ARCH
 modprobe: FATAL: Module vboxpci not found in directory /lib/modules/4.5.3-1-ARCH
 modprobe: FATAL: Module vboxdrv not found in directory /lib/modules/4.5.3-1-ARCH
