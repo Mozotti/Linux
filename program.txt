@@ -93,6 +93,10 @@ mpv
 pulseaudio
 ffmpeg
 
+//php
+composer
+php
+
 //internet scan
 etherape
 
