@@ -1,0 +1,361 @@
+package install		pacman && yum
+
+//c++ threads library
+boost
+
+//editor de video
+cinelerra
+
+//editor
+atom
+
+//compilador?
+clang
+
+//file compress (openbsd)
+xz
+
+//imagem ecript data
+openstego
+
+//cript
+gpg
+
+//sublime for arch
+sudo pacman -Sy base-devel
+yaourt sublime-text-dev
+
+opencv
+python-matplotlib
+python-pillow
+python-numpy
+
+//paralela
+gprof
+perf
+
+qt5
+python3-pyqt5
+
+Gwenview
+
+//ico pictures
+icoutils
+
+munin
+
+//info system //info SO
+screenfetch
+
+//ghci
+cabal-install
+
+//vnstat -u -i eth0
+vnStat
+
+//clojure
+clojure
+
+//mpd service
+
+//ncmpcpp client
+mpd + ncmpcpp
+
+//server problens
+Clementine
+amarok
+
+//works fine
+quodlibet
+yaourt
+
+
+//traffic network
+Netstat
+netactview
+
+//instalar na ordem
+terminus-font
+monitorix
+
+//disk htop
+iotop
+
+//works fine
+cmus
+moc
+
+//problens with location
+Lollypop
+
+//latex editor
+texmaker
+
+//audio
+mpv
+pulseaudio
+ffmpeg
+
+//php
+composer
+php
+
+//internet scan
+etherape
+
+//injection (fedora)
+medusa
+Sqlninja
+Yersinia
+
+//.....
+MiniZinc
+
+//code interface python2.7 c++
+qt4
+
+//best terminal ever
+xterm
+
+//
+percona-server
+percone-server-clients
+
+//prolog file
+swi-prolog
+
+//
+reflector
+
+//
+virtualbox
+
+//haskell comp
+ghci
+
+//for use juicessh app android
+openssh-client
+openssh-server
+
+//client torrent
+transmission-gtk
+
+//alsa audio tools
+alsa-utils
+
+//terminal comple.
+tmux
+
+//graphic tool
+gnuplot
+
+//awesome interface (need)
+xorg-xrandr
+
+//picture editor
+shotwell
+pinta
+
+//
+postgresql
+
+//editor
+gedit
+
+//git ... github and bitbucket ...
+git
+
+//curl
+curl
+
+//music player
+rhythmbox
+bashee
+
+//pdf view
+evince
+
+//partion change with
+gparted
+
+//torrent
+qbittorrent
+ktorrent
+trasmission
+
+//sensors computer
+lm_sensors
+
+//windows emul.
+wine
+
+//game
+supertux
+
+//map network
+
+
+//download files with url
+wget
+
+//chat
+irssi
+
+//ide
+geany
+codeblocks
+
+//music player
+vlc
+smplayer
+
+//
+wireshark
+
+//
+lua
+python
+ruby
+
+//IDE
+netbeans
+
+//
+gcc
+
+//
+htop
+
+//latex
+kile
+
+//picture
+gimp
+
+//
+libreoffice
+
+//IDE
+eclipse
+
+//
+gthumb     //gnome interface visuzalidor de imagens
+
+//
+conky
+
+//
+firefox
+
+//image editor
+sk1
+
+//editor
+nano
+
+//email
+thunderbird
+
+//imagens
+feh
+
+zip
+unzip
+p7zip
+synaptics    //mouse
+make
+links
+lynx
+gtk-engines
+lxappearances
+lm_sensors
+phonon-qt5-vlc
+totem
+totem-plparser
+flashplugin
+pgadmin3
+postgresql
+mysql
+imagemagick
+alsa-utils
+scrot  //print program scrot oi.png
+wine
+calibre
+skype
+steam
+//tex live
+dnsutils
+lvm2
+python-opengl
+python2-opengl
+gambas3-gb-qt4-opengl
+coin
+gliv
+glitz
+glfw
+glew
+glee
+gl2ps
+perl
+vim
+git
+mesa-demos
+lib32-mesa-demos
+blender
+mesa-libgl
+lib32-mesa-libgl
+unrar
+freeglut
+mesa
+mesa-demos
+openal
+glew
+awesome
+xorg-*
+pygame
+openssh
+
+moreutils
+//isutf8 *   check file format for utf8
+//iconv -f ISO-8859-14 input.txt -t UTF-8 -o output.txt
+
+//
+mpi
+
+//
+julia
+
+//
+python3-scipy
+
+//
+emacs
+
+//tracer
+traceroute
+
+//system hardware
+lshw
+
+//linux basic
+loadkeys br-abnt2
+dhcpcd
+
+//addon firefox
+ft deepdark
+
+//firefox addons
+adblock
+ghostery
+
+//converter pdf para txt
+    poppler-utils
+    pdftotext nomedoarquivo.pdf
+    cat nomedoarquivo.txt |less
+
+#arch linux information
+
+/etc/pacman.conf
+
+
+sudo pacman -S clutter-gst gnome-video-effects gst-plugins-bad gst-plugins-base gst-plugins-base-libs gst-plugins-good gstreamer gstreamer0.10 gstreamer0.10-bad  gstreamer0.10-bad-plugins gstreamer0.10-base gstreamer0.10-base-plugins gstreamer0.10-ffmpeg gstreamer0.10-good  gstreamer0.10-good-plugins gstreamer0.10-ugly  gstreamer0.10-ugly-plugins phonon-qt4-gstreamer phonon-qt5-gstreamer totem
