@@ -1,0 +1,19 @@
+ERROR 1045(28000) : Access denied for user 'root@localhost' (using password: no )
+
+mysql -u root -p
+
+
+If you want to make easier to access your mysql
+
+create .my.cnf in /root/
+
+
+[mysqladmin]
+ user = root
+ password = mysqlrootpassword
+[mysql]
+ user = root
+ password = mysqlrootpassword
+[mysqldump]
+ user = root
+ password = mysqlrootpassword
