@@ -1,4 +1,5 @@
-#udesc
+#debian Linux install
+#by h31nr1ch
 sudo apt-get install git curl htop
 sudo apt-get install openssh*
 sudo apt-get update

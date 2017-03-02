@@ -1,4 +1,5 @@
-#oarcnab
+#arch Linux install
+#by h31nr1ch
 sudo pacman -Syyu
 #arch linux information
 #/etc/pacman.conf

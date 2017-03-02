@@ -1,3 +1,5 @@
+#Fedora Linux install
+#by h31nr1ch
 #old ----fix-missing
 #old version need update (2013<)
 #yum

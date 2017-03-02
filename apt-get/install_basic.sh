@@ -1,4 +1,6 @@
-#basic install commands
+#debian Linux install
+#by h31nr1ch
+#basic install UDESC
 sudo apt-get update
 sudo apt-get install tmux lynx links
 sudo add-apt-repository ppa:webupd8team/atom
@@ -11,4 +13,3 @@ alias python=python3.4
 sudo apt-get install python3-pip
 sudo apt-get install python-dev
 sudo apt-get install qtcreator pyqt5-dev-tools
-
