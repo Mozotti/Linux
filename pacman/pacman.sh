@@ -1,5 +1,7 @@
 #oarcnab
 sudo pacman -Syyu
+#arch linux information
+#/etc/pacman.conf
 sudo pacman -S sudo
 sudo pacman -S alsa-utils tmux gnuplot shotwell pinta postgresql gedit git curl rhythmbox bashee evince gparted qbittorrent ktorrent transmission-gtk lm_sensors
 sudo pacman -S wine supertux nmap wget irssi geany codeblocks vlc smplayer wireshark lua netbeans gcc htop kile gimp gthumb conky firefox nano
@@ -7,12 +9,14 @@ sudo pacman -S thunderbird feh zip unzip p7zip synaptics make htop links lynx gt
 sudo pacman -S pgadmin3  postgresql mysql imagemagick scrot dnsutils lvm2 python-opengl python2-opengl gambas3-gb-qt4-opengl
 sudo pacman -S coin gliv glitz glfw glew glee gl2ps perl vim mesa-demos lib32-mesa-demos blender mesa-libgl lib32-mesa-libgl unrar
 sudo pacman -S freeglut mesa mesa-demos openal glew pygame openssh
+#warning
+sudo pacman -S clutter-gst gnome-video-effects gst-plugins-bad gst-plugins-base gst-plugins-base-libs gst-plugins-good gstreamer gstreamer0.10 gstreamer0.10-bad  gstreamer0.10-bad-plugins gstreamer0.10-base gstreamer0.10-base-plugins gstreamer0.10-ffmpeg gstreamer0.10-good  gstreamer0.10-good-plugins gstreamer0.10-ugly  gstreamer0.10-ugly-plugins phonon-qt4-gstreamer phonon-qt5-gstreamer totem
 #libreoffice BR
 sudo pacman -S libreoffice-fresh-pt-BR
 #install interface
 #sudo pacman -S awesome xorg-* xorg-xrandr
 sudo pacman -S cinelerra-cv  	boost-libs boost clang xz gnupg opencv julia ghc cabal-install clojure go python cmus moc php xterm ruby openmpi
-sudo pacman -S icoutils qt5 iotop atom texmaker eclipse-common calibre emacs
+sudo pacman -S icoutils qt5 iotop atom texmaker eclipse-common calibre emacs traceroute
 #virtual box ##warning
 sudo pacman -S virtualbox
 #MELHOR BAIXAR O FONTE ...
