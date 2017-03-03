@@ -44,7 +44,7 @@ sudo apt-get install cinelerra-cv
 #clang
 sudo apt-get install clang
 #haskell
-sudo apt-get install cabal ghci
+#sudo apt-get install cabal ghci
 #gpg
 sudo apt-get install gpa xterm
 #network
