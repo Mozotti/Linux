@@ -1,5 +1,3 @@
-package install		pacman && yum
-
 //c++ threads library
 boost
 
