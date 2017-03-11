@@ -1,5 +1,8 @@
 package install		pacman && yum
 
+//ada package for gcc
+gcc-ada
+
 //c++ threads library
 boost
 
