@@ -1,3 +1,6 @@
+//r base
+r-base (ubuntu)
+
 //c++ threads library
 boost
 
