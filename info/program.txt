@@ -1,6 +1,6 @@
 package install		pacman && yum
 
-//ada package for gcc
+//ada package for gcc (package gnat)
 gcc-ada
 
 //c++ threads library
