@@ -1,4 +1,5 @@
-package install		pacman && yum
+//r base
+r-base (ubuntu)
 
 //ada package for gcc (package gnat)
 gcc-ada
