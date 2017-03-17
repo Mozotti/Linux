@@ -1,5 +1,9 @@
 //r base
 r-base (ubuntu)
+r (arch linux)
+
+//fortran
+gcc-fortran
 
 //ada package for gcc (package gnat)
 gcc-ada
