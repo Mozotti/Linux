@@ -61,6 +61,7 @@ sudo apt-get instal irssi vlc smplayer nano
 sudo apt-get install thunderbird feh make lynx unzip p7zip totem
 sudo apt-get install coin gliv glitz glfw glew glee gl2ps perl emacs
 sudo apt-get install ruby julia php mpi
+sudo apt-get install gcc-fortran r-base gcc-ada
 sudo apt-get install upgrade
 #debian
 #sudo apt-get install alsa-utils rhythmbox
