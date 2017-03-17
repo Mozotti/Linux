@@ -50,3 +50,4 @@ git clone https://github.com/tony/tmux-config.git ~/.tmux
 ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
 curl http://j.mp/spf13-vim3 -L -o - | sh
 sudo pacman -S mplayer wireshark bison flex acpi poppler lm-sensors
+sudo pacman -S r gcc-fortran gcc-ada
