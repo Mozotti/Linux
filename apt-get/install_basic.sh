@@ -2,7 +2,7 @@
 #by h31nr1ch
 #basic install UDESC
 sudo apt-get update
-sudo apt-get install tmux lynx links
+sudo apt-get install tmux lynx links xterm 
 sudo add-apt-repository ppa:webupd8team/atom
 sudo apt-get update
 sudo apt-get install atom
