@@ -1,0 +1,4 @@
+#install
+sudo apt-get install mailutils ssmtp
+
+#config file in /etc/ssmtp/ssmtp.conf
