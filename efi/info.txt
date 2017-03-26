@@ -1,0 +1,5 @@
+mount /dev/sda1 /boot/efi
+apt-get install --reinstall grub-efi
+apt-get install --reinstall grub-efi
+update-grub
+#https://wiki.debian.org/GrubEFIReinstall
